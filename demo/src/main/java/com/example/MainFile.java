@@ -5,5 +5,6 @@ public class MainFile {
         System.out.println("abc");
         int x = 10;
         int y = 55;
+        int z = x + y;
     }
 }
