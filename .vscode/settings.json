@@ -1,3 +1,8 @@
 {
-    "svn.ignoreMissingSvnWarning": true
+    "svn.ignoreMissingSvnWarning": false,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
 }
